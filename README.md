@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <a href="https://facebook.com/https://www.facebook.com/rj.sourav.1004" target="_blank">
+  <a href="https://www.facebook.com/rj.sourav.1004" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="28" />
   </a>
 </div>
