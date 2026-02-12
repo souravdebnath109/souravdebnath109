@@ -11,6 +11,10 @@
   <a href="https://www.facebook.com/rj.sourav.1004" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="28" />
   </a>
+  <img width="10" />
+  <a href="https://www.linkedin.com/in/sourav-debnath-b4a80a313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="28" />
+  </a>
 </div>
 
 ---
@@ -44,7 +48,7 @@
 <h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/sourav-debnath-b4a80a313/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
   <a href="#" target="_blank">
@@ -110,7 +114,6 @@ I am a student of **CSE, KUET**
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/souravdebnath109/souravdebnath109/output/pacman-contribution-graph.svg" />
 </picture>
-
 
 ---
 
