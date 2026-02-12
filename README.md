@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm <b>Sourav Debnath</b> — CSE student at <b>KUET</b>.<br/>
-  I work on <b>Java & OOP projects</b> and currently learning <b>Web Development</b>.
+I’ve built projects with <b>Laravel, Flutter, React, Django, PHP, C++</b> and also explore <b>Android, Swift, hardware</b>, and <b>OpenGL</b>.
 </p>
 
 ---
